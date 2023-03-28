@@ -149,4 +149,4 @@ If you have a suggestion, please fork the repo and create a pull request. You ca
 [license-shield]: https://img.shields.io/github/license/Nerdosth/Peloton_Data.svg?style=for-the-badge
 [license-url]: https://github.com/Nerdosth/Peloton_Data/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/nerdosth
+[linkedin-url]: https://www.linkedin.com/in/nerdosth
