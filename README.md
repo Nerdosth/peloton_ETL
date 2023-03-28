@@ -106,14 +106,14 @@ You will need to have some fimilarity with Python.  I am a novice coder and the 
 1. Using the credentials from the config.py, download your workout file from Peloton's API (unoffical)
 2. Modify the data for the purpose of cycling only.
 3. Setup the intial FTP score for your data using either option below:
-   1. If you've only done one FTP test, you can run this block of code:</br>
+   * If you've only done one FTP test, you can run this block of code:</br>
      ![1680026529323](image/README/1680026529323.png)
-   3. If you've done multiple FTP test, you can select the date range and apply the FTP score using this block of code:</br>
+   * If you've done multiple FTP test, you can select the date range and apply the FTP score using this block of code:</br>
      ![1680026027606](image/README/1680026027606.png)
 
       Copy and paste the last line if you have multiple FTP scores to add. Changing the date and FTP score to fit your data.
-   3. Calculate a fitness indicator (Avg. Heartrate/ Avg. Watts ratio), and catogorize workouts with a Power Zones based on Avg. Watts.
-   4. Export dataframe to `output_workouts.csv'`
+ 4. Calculate a fitness indicator (Avg. Heartrate/ Avg. Watts ratio), and catogorize workouts with a Power Zones based on Avg. Watts.
+ 5. Export dataframe to `output_workouts.csv'`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
