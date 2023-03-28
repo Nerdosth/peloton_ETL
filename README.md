@@ -79,8 +79,8 @@ You will need to have some fimilarity with Python.  I am a novice coder and the 
 * Peloton account user ID (on your PC)
   * Log into your account at https://members.onepeloton.com/
   * Click on your profile photo on the top right
-  * Click on 'Workouts'
-    *  ![1680023350761](image/README/1680023350761.png)
+  * Click on 'Workouts'</br>
+      ![1680023350761](image/README/1680023350761.png)
   * Right-Click on 'DOWNLOAD WORKOUTS'
     * Copy Link Address
     * Paste link in text file (or wherever you'd like to see the URL)
@@ -100,15 +100,17 @@ You will need to have some fimilarity with Python.  I am a novice coder and the 
    username = "your_username"
    password = "your_password"
    ```
-4. ***IMPORTANT****:* Add config.py to your gitignore file to ensure you don't upload your account information into your Github repo, especially if it's set to public.
+4. ***IMPORTANT***: Add config.py to your gitignore file to ensure you don't upload your account information into your Github repo, especially if it's set to public.
 
 ## Usage
 
 1. Using the credentials from the config.py, download your workout file from Peloton's API (unoffical)
 2. Modify the data for the purpose of cycling only.
 3. Setup the intial FTP score for your data using either option below:
-   1. If you've only done one FTP test, you can run this block of code:![1680026529323](image/README/1680026529323.png)
-   2. If you've done multiple FTP test, you can select the date range and apply the FTP score using this block of code:![1680026027606](image/README/1680026027606.png)
+   1. If you've only done one FTP test, you can run this block of code:</br>
+     ![1680026529323](image/README/1680026529323.png)
+   3. If you've done multiple FTP test, you can select the date range and apply the FTP score using this block of code:</br>
+     ![1680026027606](image/README/1680026027606.png)
 
       Copy and paste the last line if you have multiple FTP scores to add. Changing the date and FTP score to fit your data.
    3. Calculate a fitness indicator (Avg. Heartrate/ Avg. Watts ratio), and catogorize workouts with a Power Zones based on Avg. Watts.
