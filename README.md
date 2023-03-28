@@ -21,7 +21,6 @@
   <h3 align="center">Peloton Data ETL</h3>
 
 <p align="center">
-    Extract your workout data from your Peloton profile. 
     <br />
     <a href="https://github.com/Nerdosth/Peloton_Data"><strong>Explore the docs »</strong></a>
     <br />
