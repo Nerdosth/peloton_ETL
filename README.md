@@ -98,7 +98,7 @@ You will need to have some fimilarity with Python.  I am a novice coder and the 
    username = "your_username"
    password = "your_password"
    ```
-4. ***IMPORTANT***: Add config.py to your gitignore file to ensure you don't upload your account information into your Github repo, especially if it's set to public.
+4. ***IMPORTANT***: I added config.py to the gitignore file to ensure you don't upload your account information into your Github repo, especially if it's set to public. Make sure you doublecheck the gitignore file before pushing your data. 
 
 ## Usage
 
