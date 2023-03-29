@@ -91,7 +91,7 @@ You will need to have some fimilarity with Python.  I am a novice coder and the 
 2. Install the required packages using pip install (pandas, request)
 3. Create a 'config.py' file:
 
-   Replace `your_user_id`, `your_username`, and `your_password` with your Peloton account information.
+   Replace `user_id`, `username`, and `password` with your Peloton account information.
 
    ```
    user_id = "your_user_id"
