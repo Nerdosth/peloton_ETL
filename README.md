@@ -103,7 +103,7 @@ You will need to have some fimilarity with Python.  I am a novice coder and the 
 ## Usage
 
 1. Using the credentials from the config.py, download your workout file from Peloton's API (unoffical)
-2. Modify the data for the purpose of cycling only.
+2. Modify the data for the purpose of cycling only (keeping all workout types to help track stretching and cross-training metrics).
 3. Setup the intial FTP score for your data using either option below:
    * If you've only done one FTP test, you can run this block of code:</br>
      ![1680026529323](image/README/1680026529323.png)
